@@ -92,8 +92,8 @@ src/
 
 ## 📸 Demo
 
-Live Demo: https://auth-ui-react-eosin.vercel.app/
-GitHub Repo: https://github.com/MinaNgh/auth-ui-react
+Live Demo: https://auth-ui-react-eosin.vercel.app/  
+GitHub Repo: https://github.com/MinaNgh/auth-ui-react/
 
 ---
 
