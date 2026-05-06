@@ -59,6 +59,7 @@ A production-style authentication system built with React, featuring login and s
 
 ## 🏗️ Project Structure
 src/
+
 ├── components/ # Reusable UI components
 ├── pages/ # Login, Signup, Dashboard
 ├── context/ # Auth state management
